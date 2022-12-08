@@ -18,6 +18,9 @@ In most cases, users interact with a blockchain by submitting a request that mig
 These transactions requests are gossiped to other nodes on the network and assembled into a block by a block author.
 To ensure the security of the data on the chain and the ongoing progress of the chain, the nodes use some form of consensus to agree on the state of the data in each block and on the order of transactions executed.
 
+![Image depicting state transition](tx-block.png)
+
+
 ## What is a blockchain node?
 
 At a high level, all blockchain nodes require the following core components:
