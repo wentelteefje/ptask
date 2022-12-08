@@ -9,7 +9,7 @@ keywords:
   - limitations
 ---
 
-A blockchain is a decentralized ledger that records information in a sequence of blocks. At any point in time, the blockchain has a current internal state. The information contained in a block is an ordered set of instructions that might result in a change in state.
+A blockchain is a decentralized ledger that records information in a sequence of blocks. At any point in time, the blockchain has a current internal state. The information contained in a block is an ordered set of instructions that might result in a change of this state.
 
 In a blockchain network, individual computers—called nodes—communicate with each other to form a decentralized peer-to-peer (P2P) network.
 There is no central authority that controls the network and, typically, each node that participates in block production stores a copy of the blocks that make up the canonical chain.
