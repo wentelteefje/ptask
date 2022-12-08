@@ -40,7 +40,6 @@ By learning about how most blockchains operate, you'll be better prepared to see
 
 ## State transitions and conflicts
 
-A blockchain is essentially a [state machine](https://en.wikipedia.org/wiki/Finite-state_machine).
 At any point in time, the blockchain has a current internal state.
 As inbound transactions are executed, they result in changes to state so the blockchain must transition from its current state to a new state.
 However, there can be multiple valid transitions that would result in different future states, and the blockchain must select a single state transition that can be agreed upon.
